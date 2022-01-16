@@ -1,0 +1,2 @@
+$ cat file2.txt
+This is dummy test in 2nd file
